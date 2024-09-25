@@ -1,9 +1,9 @@
 class Mocks < Formula
     desc "Get a mock REST APIs with zero coding within seconds."
     homepage "https://github.com/mocks-rs/mocks"
-    url "https://github.com/mocks-rs/mocks/releases/download/0.3.4/mocks-0.3.4-x86_64-apple-darwin.tar.gz"
-    sha256 "044110deefb6f77b0e1aff7f31b8e70921eb8bd3a5a1d950e6b404166a88ce6c"
-    version "0.3.4"
+    url "https://github.com/mocks-rs/mocks/releases/download/0.3.5/mocks-0.3.5-x86_64-apple-darwin.tar.gz"
+    sha256 "062955175cda3faa65315e42e92d17f82bce0ddb4f40b7674b03f5d5fb294988"
+    version "0.3.5"
 
     def install
         bin.install "mocks"
